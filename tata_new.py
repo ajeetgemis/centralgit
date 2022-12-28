@@ -4,6 +4,7 @@ from sqlalchemy import create_engine
 from tkinter import Tk
 from tkinter import *
 import glob,os,shutil,ftplib
+import qrcode
 
 
 class tata_trolley:
